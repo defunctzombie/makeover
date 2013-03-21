@@ -1,0 +1,13 @@
+{
+  "name": "makeover",
+  "version": "0.0.1",
+  "description": "vendor mixins for stylus",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "stylus",
+    "vendor"
+  ],
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT"
+}
